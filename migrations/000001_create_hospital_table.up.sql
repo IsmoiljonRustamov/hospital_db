@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS "hospital"(
+    "id" SERIAL PRIMARY KEY,
+    "name" VARCHAR(30)
+);
